@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    display: flex;
+    width: 100%;
+    align-items: 100%;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    flex-direction: column;
+}
+
+body{
+    background: linear-gradient(to bottom, rgb(146, 167, 250), rgb(30, 30, 43));   
+    background-size: cover;
+    min-height: 100vh;
+}
+
+body a{
+    color:bisque;
+}
